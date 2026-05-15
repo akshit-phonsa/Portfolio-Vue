@@ -112,11 +112,11 @@ import {
     ChatBubbleLeftRightIcon
 } from '@heroicons/vue/24/outline'
 
-// Import images
-import about1 from '../../public/assets/About.png'
-import about2 from '../../public/assets/About2.png'
-import about3 from '../../public/assets/About3.png'
-import about4 from '../../public/assets/About4.png'
+// Public folder assets — referenced as URL strings (not imported as modules)
+const about1 = '/assets/About.png'
+const about2 = '/assets/About2.png'
+const about3 = '/assets/About3.png'
+const about4 = '/assets/About4.png'
 
 const tag = 'Full-Stack Developer | Tech Enthusiast | Problem Solver';
 

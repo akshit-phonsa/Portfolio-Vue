@@ -52,9 +52,10 @@
 import { StarIcon } from '@heroicons/vue/24/solid'
 
 // استيراد الصور
-import person1 from '../../public/assets/person1.png'
-import person2 from '../../public/assets/person2.png'
-import person3 from '../../public/assets/person3.png'
+// Public folder assets — referenced as URL strings (not imported as modules)
+const person1 = '/assets/person1.png'
+const person2 = '/assets/person2.png'
+const person3 = '/assets/person3.png'
 
 const testimonials = [
     {
