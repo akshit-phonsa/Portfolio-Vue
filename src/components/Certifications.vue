@@ -130,7 +130,7 @@
                         class="group relative bg-linear-to-br from-gray-800/50 to-purple-900/30 rounded-3xl overflow-hidden border border-pink-500/20 backdrop-blur-sm hover:border-pink-400/50 transition-all duration-500 hover:-translate-y-2 hover:shadow-2xl hover:shadow-pink-500/20 cursor-pointer"
                         data-aos="fade-up"
                         :data-aos-delay="(index + 1) * 100"
-                        @click="openModal(appr)"
+                        @click="openItem(appr)"
                     >
                         <!-- Thumbnail -->
                         <div class="relative h-48 overflow-hidden bg-gray-900/60">
