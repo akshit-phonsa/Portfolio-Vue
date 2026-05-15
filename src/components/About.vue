@@ -114,9 +114,9 @@ import {
 
 // Import images
 import about1 from '../../public/assets/About.png'
-import about2 from '../../public/assets/about2.png'
-import about3 from '../../public/assets/about3.png'
-import about4 from '../../public/assets/about4.png'
+import about2 from '../../public/assets/About2.png'
+import about3 from '../../public/assets/About3.png'
+import about4 from '../../public/assets/About4.png'
 
 const tag = 'Full-Stack Developer | Tech Enthusiast | Problem Solver';
 
