@@ -172,7 +172,7 @@ const projects = ref([
         ],
         links: [
             { name: "Live Demo", url: "https://www.youtube.com/watch?v=_-vb5Qo4qq4", icon: EyeIcon, class: "text-purple-400 hover:text-purple-300" },
-            { name: "Code", url: "https://github.com/akshit-phonsa/linkedin-clone", icon: CodeBracketIcon, class: "text-pink-400 hover:text-pink-300" }
+            { name: "Code", url: "https://github.com/akshit-phonsa/linkedin-clone-local", icon: CodeBracketIcon, class: "text-pink-400 hover:text-pink-300" }
         ]
     },
     {
