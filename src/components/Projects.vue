@@ -171,7 +171,7 @@ const projects = ref([
             { name: "Java", class: "bg-purple-500/20 border-purple-400/30 text-purple-200" }
         ],
         links: [
-            { name: "Live Demo", url: "#", icon: EyeIcon, class: "text-purple-400 hover:text-purple-300" },
+            { name: "Live Demo", url: "https://www.youtube.com/watch?v=_-vb5Qo4qq4", icon: EyeIcon, class: "text-purple-400 hover:text-purple-300" },
             { name: "Code", url: "https://github.com/akshit-phonsa/linkedin-clone", icon: CodeBracketIcon, class: "text-pink-400 hover:text-pink-300" }
         ]
     },
