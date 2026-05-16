@@ -78,7 +78,7 @@
                            data-aos="zoom-in" data-aos-delay="500">
                             <div class="rounded-xl overflow-hidden">
                                 <img 
-                                    src="../../public/assets/image.png" 
+                                    src="../../public/assets/Akshit7.png" 
                                     alt="Mary - Full Stack Developer" 
                                     loading="lazy"
                                     class="my-10 w-[500px] h-[500px] object-contain -translate-y-8"
