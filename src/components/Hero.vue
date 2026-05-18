@@ -44,7 +44,7 @@
                             <div class="flex items-center justify-center relative">
                                 <ArrowDownTrayIcon class="w-5 h-5 text-purple-400 group-hover:translate-y-1
                                  transition-transform" />
-                                <span class="pl-3 text-purple-400 font-semibold text-lg"><a href="/public/assets/resume.pdf" target="_blank" rel="noopener noreferrer">Download CV</a></span>
+                                <span class="pl-3 text-purple-400 font-semibold text-lg"><a href="./assets/resume.pdf" target="_blank" rel="noopener noreferrer">Download CV</a></span>
                             </div>
                         </button>
                     </div>
