@@ -430,6 +430,17 @@ const certificates = ref([
         file: 'https://graphacademy.neo4j.com/c/b6f2d097-f2b0-4ebf-a126-35677169b0e1/',
         badgeColor: 'bg-pink-600',
         bgPlaceholder: 'bg-linear-to-br from-pink-800/60 to-purple-900/60'
+    },
+    {
+        id: 15,
+        title: 'GitHub Copilot',
+        issuer: 'Microsoft',
+        date: '2026',
+        category: 'Github Copilot',
+        type: 'Web',
+        file: 'https://learn.microsoft.com/en-in/users/phonsaakshit/credentials/a5f88819cc61cea1',
+        badgeColor: 'bg-pink-600',
+        bgPlaceholder: 'bg-linear-to-br from-pink-800/60 to-purple-900/60'
     }
 ])
 
